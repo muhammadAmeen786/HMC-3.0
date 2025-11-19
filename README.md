@@ -1,4 +1,8 @@
 # HMC-3.0
+
+# PASS:HMC3
+
+
 <img width="524" height="364" alt="image" src="https://github.com/user-attachments/assets/bd876039-e6ea-4a38-9bc6-a98dacddf04b" />
 
 EMAIL VERIFICATION TOOL is a highly specialized software designed for professionals who require full control and maximum efficiency when working with large amounts of email. In an environment where every minute counts and the reliability of the tool is critical, our software offers an advanced set of features that ensures stable performance.
